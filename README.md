@@ -9,6 +9,6 @@ Trigger build
 
 Triger build
 
-Trigger Build
+Trigger Build2
 
 # trigger for scan
